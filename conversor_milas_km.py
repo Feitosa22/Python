@@ -6,7 +6,7 @@ mi_to_km = lambda mi: mi * 1.61
 def converter_medida():
     while True:
         try:
-            print("\nEscolha o tipo de conversão:","1 - Quilômetros para Milhas\n2 - Milhas para Quilômetros","9 - Sair", sep='\n')
+            print("\nEscolha o tipo de conversão:","1 - Quilômetros para Milhas", "2 - Milhas para Quilômetros","9 - Sair", sep='\n')
             opcao = int(input("Opção: "))
             
             if opcao == 9:
