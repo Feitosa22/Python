@@ -16,6 +16,7 @@
 # {"nome": "oblesc", "dano": 200, "hp": 5000, "exp": 600, "velocidade_ataque": 0.5},
 # ]
 
+# - Dia 1 - Tempo de Estudo 
 
 
 import os
